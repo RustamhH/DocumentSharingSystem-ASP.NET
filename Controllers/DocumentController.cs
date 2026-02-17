@@ -26,6 +26,14 @@ namespace DocumentSharingSystem.Controllers
         }
 
 
+        [HttpGet("GetAllTokens")]
+        public async Task<IActionResult> GetAllTokens()
+        {
+            var tokens = await _tokenService.GetAllTokens();
+
+            return Ok(tokens);
+        }
+
         [HttpPost("CreateToken")]
         public async Task<IActionResult> CreateToken([FromQuery] string documentId)
         {
@@ -33,6 +41,16 @@ namespace DocumentSharingSystem.Controllers
 
             return Ok(new { token });
         }
+
+        [HttpPost("RevokeToken")]
+        public async Task<IActionResult> RevokeToken([FromQuery] string tokenId)
+        {
+            var token = await _tokenService.RevokeTokenAsync(tokenId);
+
+            return Ok(new { token });
+        }
+
+
 
 
         [HttpGet("DownloadDocument")]

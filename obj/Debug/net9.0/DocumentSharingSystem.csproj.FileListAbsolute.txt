@@ -166,3 +166,4 @@ D:\CODING PROYEKTLER\.NET PROJECTS\DocumentSharingSystem\obj\Debug\net9.0\refint
 D:\CODING PROYEKTLER\.NET PROJECTS\DocumentSharingSystem\obj\Debug\net9.0\DocumentSharingSystem.pdb
 D:\CODING PROYEKTLER\.NET PROJECTS\DocumentSharingSystem\obj\Debug\net9.0\DocumentSharingSystem.genruntimeconfig.cache
 D:\CODING PROYEKTLER\.NET PROJECTS\DocumentSharingSystem\obj\Debug\net9.0\ref\DocumentSharingSystem.dll
+D:\CODING PROYEKTLER\.NET PROJECTS\DocumentSharingSystem\obj\Debug\net9.0\DocumentSharingSystem.sourcelink.json

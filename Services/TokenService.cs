@@ -16,6 +16,12 @@ namespace DocumentSharingSystem.Services
             _db = db;
         }
 
+
+        public async Task<List<Token>> GetAllTokens()
+        {
+            return await _db.Tokens.ToListAsync();
+        }
+
         public async Task<string> CreateTokenAsync(string documentId, DateTime expiryTime)
         {
             var rawToken = Convert.ToBase64String(Guid.NewGuid().ToByteArray());
@@ -31,6 +37,21 @@ namespace DocumentSharingSystem.Services
             await _db.SaveChangesAsync();
 
             return rawToken;
+        }
+
+
+        public async Task<string> RevokeTokenAsync(string tokenId)
+        {
+            var oldToken = _db.Tokens.Where(x => x.Id == tokenId).FirstOrDefault();
+            if (oldToken == null) return null;
+            var tokenHash = Convert.ToBase64String(Guid.NewGuid().ToByteArray());
+            oldToken.TokenHash= Hash(tokenHash);
+            oldToken.IsRevoked = true;
+            await _db.SaveChangesAsync();
+
+            return tokenHash;
+            
+
         }
 
         public async Task<Token?> ValidateTokenAsync(string token)

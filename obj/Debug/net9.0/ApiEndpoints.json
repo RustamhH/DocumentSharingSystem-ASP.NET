@@ -33,6 +33,32 @@
   },
   {
     "ContainingType": "DocumentSharingSystem.Controllers.DocumentController",
+    "Method": "GetAllTokens",
+    "RelativePath": "api/Document/GetAllTokens",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentSharingSystem.Controllers.DocumentController",
+    "Method": "RevokeToken",
+    "RelativePath": "api/Document/RevokeToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentSharingSystem.Controllers.DocumentController",
     "Method": "UploadDocument",
     "RelativePath": "api/Document/UploadDocument",
     "HttpMethod": "POST",

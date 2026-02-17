@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Migrations\\20260217120351_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260217120351_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|d:\\coding proyektler\\.net projects\\documentsharingsystem\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|d:\\coding proyektler\\.net projects\\documentsharingsystem\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|solutionrelative:controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|d:\\coding proyektler\\.net projects\\documentsharingsystem\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|solutionrelative:models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|d:\\coding proyektler\\.net projects\\documentsharingsystem\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|d:\\coding proyektler\\.net projects\\documentsharingsystem\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|d:\\coding proyektler\\.net projects\\documentsharingsystem\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|solutionrelative:models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|d:\\coding proyektler\\.net projects\\documentsharingsystem\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|solutionrelative:models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D71E3EF-E24F-41AC-B970-4A7740D20C65}|DocumentSharingSystem.csproj|d:\\coding proyektler\\.net projects\\documentsharingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,34 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260217120351_first.cs",
-              "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Migrations\\20260217120351_first.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260217120351_first.cs",
-              "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Migrations\\20260217120351_first.cs",
-              "RelativeToolTip": "Migrations\\20260217120351_first.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T12:03:51.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "Services\\TokenService.cs",
-              "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Services\\TokenService.cs",
-              "RelativeToolTip": "Services\\TokenService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswBYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T11:59:36.536Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -108,7 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:59:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -121,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Token.cs",
               "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Models\\Token.cs",
               "RelativeDocumentMoniker": "Models\\Token.cs",
@@ -134,20 +117,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Document.cs",
               "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Models\\Document.cs",
               "RelativeDocumentMoniker": "Models\\Document.cs",
               "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Models\\Document.cs",
               "RelativeToolTip": "Models\\Document.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T11:19:43.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "DocumentService.cs",
               "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Services\\DocumentService.cs",
               "RelativeDocumentMoniker": "Services\\DocumentService.cs",
@@ -166,7 +149,7 @@
               "RelativeDocumentMoniker": "Controllers\\DocumentController.cs",
               "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\DocumentSharingSystem\\Controllers\\DocumentController.cs",
               "RelativeToolTip": "Controllers\\DocumentController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T08:50:54.09Z",
               "EditorCaption": ""
