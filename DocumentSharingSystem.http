@@ -1,0 +1,6 @@
+@DocumentSharingSystem_HostAddress = http://localhost:5193
+
+GET {{DocumentSharingSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "DocumentSharingSystem.Controllers.DocumentController",
+    "Method": "CreateToken",
+    "RelativePath": "api/Document/CreateToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "documentId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentSharingSystem.Controllers.DocumentController",
+    "Method": "DownloadDocument",
+    "RelativePath": "api/Document/DownloadDocument",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DocumentSharingSystem.Controllers.DocumentController",
+    "Method": "UploadDocument",
+    "RelativePath": "api/Document/UploadDocument",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
